@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "Primera versión con actualizaciones automáticas",
+  "pub_date": "2026-07-18T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVVdETGJjZGdzVkJsUzFBSzZmTHZROWFoSGwxdkQ1YXVCdkFzbUExbmdSTHFzUzcvTjg3TTQ2K3p4WXErZXdiMUlHb2hNRnZmNVZjRHZ1WkR4THpXMDZsZDJZOEl5bHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDMxODAzCWZpbGU6U0FMSVggUE9TXzEuMC4wX3g2NC1zZXR1cC5uc2lzLnppcAphb0ljUm9wMzhWb2lvK3NqeXN5WUZRYkllejdtMG52Zm5ndkZFNkFFcURZQW1jZm9Jb2RaaHN4RjlROXo2bDFCSkNvM3ZUeXdidnh1aHUra2JJZ1NCQT09Cg==",
+      "url": "https://github.com/rosalybt/SALIX/releases/download/v1.0.0/SALIX.POS_1.0.0_x64-setup.nsis.zip"
+    }
+  }
+}
