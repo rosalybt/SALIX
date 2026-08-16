@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "notes": "Impresion termica migrada a ESC/POS directo (corrige palabras cortadas y acentos)",
-  "pub_date": "2026-07-24T00:00:00Z",
+  "version": "1.0.2",
+  "notes": "Fecha y hora en el ticket, impresora ya no se busca sola en Configuracion, y correccion de fechas en Facturas y Reportes (ventas de tarde/noche que no aparecian)",
+  "pub_date": "2026-08-15T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVVdETGJjZGdzVlB6WlRUNXVuTVFISFlHTkJzditPaEczdjZ1b0w4cm1WNWVNTHA2dk9uZkJ1SndycmgzNGVqWThndmhTOHdnRWF1T3NQNnQ5enR3UW4wYjBYTG92ZVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTMwNDUwCWZpbGU6U0FMSVggUE9TXzEuMC4xX3g2NC1zZXR1cC5uc2lzLnppcAo1eGZ1N2pWdm9vYTBvbUpzaUVXZTJtN3huaE43eFZBczRRRmQvWWQ0QmcyZnpaQW43YzNKS1RGNFh6OE1xMkpIdTZGRTd3K05zU01ia2tkUG8vUXlBUT09Cg==",
-      "url": "https://github.com/rosalybt/SALIX/releases/download/v1.0.1/SALIX.POS_1.0.1_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVVdETGJjZGdzVkJwaHdWSWUvcWF5VzdmclBXVXUxckVHNWY4azh4VmtvVlhVRmRKWGorcmYrNEh2ekUvbU1jN0E3cmFQQ2tzbE1iOU1TNTQybkdhdHovZGJOM1c1aEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTAwMTQ2CWZpbGU6U0FMSVggUE9TXzEuMC4yX3g2NC1zZXR1cC5uc2lzLnppcAp2anBhSG02bDByekdrdm5qRHpSMWNuRW9CcTF2UkhyRnl6akpsRk9Kb0duOTlrRlRIOEhQdmhMbTZmR0NBK1lIUFNpQ3U3OURQNHdtaTBzNDNlNkpCZz09Cg==",
+      "url": "https://github.com/rosalybt/SALIX/releases/download/v1.0.2/SALIX.POS_1.0.2_x64-setup.nsis.zip"
     }
   }
 }
