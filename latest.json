@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
-  "notes": "Fecha y hora en el ticket, impresora ya no se busca sola en Configuracion, y correccion de fechas en Facturas y Reportes (ventas de tarde/noche que no aparecian)",
-  "pub_date": "2026-08-15T00:00:00Z",
+  "version": "1.1.0",
+  "notes": "Sistema de roles y permisos, Cuadre de Caja completo (apertura, cierre, retiros, ingresos, desglose de efectivo, historial e impresión), superclave para autorizar descuentos y correcciones, corrección de método de pago y de conteo de caja ya cerrada",
+  "pub_date": "2026-09-11T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVVdETGJjZGdzVkJwaHdWSWUvcWF5VzdmclBXVXUxckVHNWY4azh4VmtvVlhVRmRKWGorcmYrNEh2ekUvbU1jN0E3cmFQQ2tzbE1iOU1TNTQybkdhdHovZGJOM1c1aEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTAwMTQ2CWZpbGU6U0FMSVggUE9TXzEuMC4yX3g2NC1zZXR1cC5uc2lzLnppcAp2anBhSG02bDByekdrdm5qRHpSMWNuRW9CcTF2UkhyRnl6akpsRk9Kb0duOTlrRlRIOEhQdmhMbTZmR0NBK1lIUFNpQ3U3OURQNHdtaTBzNDNlNkpCZz09Cg==",
-      "url": "https://github.com/rosalybt/SALIX/releases/download/v1.0.2/SALIX.POS_1.0.2_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVVdETGJjZGdzVk9WbjVzV0szcTQ3azRhbytOTG1wbUNOcWM0QXpndGpTdm1tampnVFUrMzRDUHFvNkY1NU53S3QyL1o1ZWUwSWNDLytrMzF5ODIydENQc0JucTlHWlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTgzMzc1CWZpbGU6U0FMSVggUE9TXzEuMS4wX3g2NC1zZXR1cC5uc2lzLnppcApiMG1aVHlFWGU0cnRycUFwTnhiUEVpNUdSTGZld0UwNEs2Y2k4a3J4YXl0S0ZXQUdzYks0eXJ2Ym1uaXNVcXYwci9nSHROVW53VFdGQldXRmVhbTFBQT09Cg==",
+      "url": "https://github.com/rosalybt/SALIX/releases/download/v1.1.0/SALIX.POS_1.1.0_x64-setup.nsis.zip"
     }
   }
 }
