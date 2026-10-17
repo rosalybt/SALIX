@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
-  "notes": "Sistema de roles y permisos, Cuadre de Caja completo (apertura, cierre, retiros, ingresos, desglose de efectivo, historial e impresión), superclave para autorizar descuentos y correcciones, corrección de método de pago y de conteo de caja ya cerrada",
+  "version": "1.1.1",
+  "notes": "muestra la cantidad de efectivo recibido y devuelto en la factura",
   "pub_date": "2026-09-11T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVVdETGJjZGdzVk9WbjVzV0szcTQ3azRhbytOTG1wbUNOcWM0QXpndGpTdm1tampnVFUrMzRDUHFvNkY1NU53S3QyL1o1ZWUwSWNDLytrMzF5ODIydENQc0JucTlHWlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTgzMzc1CWZpbGU6U0FMSVggUE9TXzEuMS4wX3g2NC1zZXR1cC5uc2lzLnppcApiMG1aVHlFWGU0cnRycUFwTnhiUEVpNUdSTGZld0UwNEs2Y2k4a3J4YXl0S0ZXQUdzYks0eXJ2Ym1uaXNVcXYwci9nSHROVW53VFdGQldXRmVhbTFBQT09Cg==",
-      "url": "https://github.com/rosalybt/SALIX/releases/download/v1.1.0/SALIX.POS_1.1.0_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVVdETGJjZGdzVkEwVzZNZkdEaDRudTBUSlJvbUZqNXlNQXpzbFFFZW01bUR4TVFxMUN0bmNuNlV6djlkS3FzanBrbFB4SDlrSk5qSktWRk9DdGVvZVZvSjkxSUhtbndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjAyMjMzCWZpbGU6U0FMSVggUE9TXzEuMS4xX3g2NC1zZXR1cC5uc2lzLnppcApOZFZEWlVsNzhjc3lTeXNJMWxUb0xheGJpMW9nS0NpTy8wUTV3SFJaV3lldjVEVEQxSjZkSEJUbFM1Vm1HZkI2MXp3RUtBOGlmNEU2UHQ4dFFPVGREdz09Cg==",
+      "url": "https://github.com/rosalybt/SALIX/releases/download/v1.1.1/SALIX.POS_1.1.1_x64-setup.nsis.zip"
     }
   }
 }
