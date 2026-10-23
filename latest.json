@@ -1,11 +1,11 @@
 {
   "version": "1.1.1",
   "notes": "muestra la cantidad de efectivo recibido y devuelto en la factura",
-  "pub_date": "2026-09-11T00:00:00Z",
+  "pub_date": "2026-10-17T01:57:13Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVVdETGJjZGdzVkEwVzZNZkdEaDRudTBUSlJvbUZqNXlNQXpzbFFFZW01bUR4TVFxMUN0bmNuNlV6djlkS3FzanBrbFB4SDlrSk5qSktWRk9DdGVvZVZvSjkxSUhtbndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjAyMjMzCWZpbGU6U0FMSVggUE9TXzEuMS4xX3g2NC1zZXR1cC5uc2lzLnppcApOZFZEWlVsNzhjc3lTeXNJMWxUb0xheGJpMW9nS0NpTy8wUTV3SFJaV3lldjVEVEQxSjZkSEJUbFM1Vm1HZkI2MXp3RUtBOGlmNEU2UHQ4dFFPVGREdz09Cg==",
-      "url": "https://github.com/rosalybt/SALIX/releases/download/v1.1.1/SALIX.POS_1.1.1_x64-setup.nsis.zip"
+      "url": "https://github.com/rosalybt/SALIX/releases/download/v1.1.1.1/SALIX.POS_1.1.1_x64-setup.nsis.zip"
     }
   }
 }
