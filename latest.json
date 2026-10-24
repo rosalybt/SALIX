@@ -1,7 +1,7 @@
 {
-  "version": "1.1.1",
-  "notes": "muestra la cantidad de efectivo recibido y devuelto en la factura",
-  "pub_date": "2026-10-17T01:57:13Z",
+  "version": "1.1.2",
+  "notes": "Corrección: el ticket de factura muestra efectivo recibido y devuelta en el lugar correcto. El cuadre de caja se imprime al cerrar e incluye los ingresos por caja.",
+  "pub_date": "2026-10-24T01:57:13Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVVdETGJjZGdzVkxadmFKSVYveCt3QTlCWlBLRGQ4bTlROWJWT0dRV05Vd3VZTjBXNWIvaTVkeGNUVU1BeE93cmlLa2FNbCtIaUtYN2xBSTNVY1B4YTlnL1VlempXeVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODcxODI4CWZpbGU6U0FMSVggUE9TXzEuMS4yX3g2NC1zZXR1cC5uc2lzLnppcApEdXVMdXNqTnU5UUFIWEtMMmZCWTZ6bExJT09EVXNSV1ZJT2xXUzN4WEpaM1l5emFlMHR1UE9HVjlPYnVWRXBtZFRVNGxHc3pYSkQ1cFp6N1RFWkZCZz09Cg==",
