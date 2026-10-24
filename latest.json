@@ -4,8 +4,8 @@
   "pub_date": "2026-10-17T01:57:13Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVVdETGJjZGdzVkEwVzZNZkdEaDRudTBUSlJvbUZqNXlNQXpzbFFFZW01bUR4TVFxMUN0bmNuNlV6djlkS3FzanBrbFB4SDlrSk5qSktWRk9DdGVvZVZvSjkxSUhtbndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjAyMjMzCWZpbGU6U0FMSVggUE9TXzEuMS4xX3g2NC1zZXR1cC5uc2lzLnppcApOZFZEWlVsNzhjc3lTeXNJMWxUb0xheGJpMW9nS0NpTy8wUTV3SFJaV3lldjVEVEQxSjZkSEJUbFM1Vm1HZkI2MXp3RUtBOGlmNEU2UHQ4dFFPVGREdz09Cg==",
-      "url": "https://github.com/rosalybt/SALIX/releases/download/v1.1.1.1/SALIX.POS_1.1.1_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVVdETGJjZGdzVkxadmFKSVYveCt3QTlCWlBLRGQ4bTlROWJWT0dRV05Vd3VZTjBXNWIvaTVkeGNUVU1BeE93cmlLa2FNbCtIaUtYN2xBSTNVY1B4YTlnL1VlempXeVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODcxODI4CWZpbGU6U0FMSVggUE9TXzEuMS4yX3g2NC1zZXR1cC5uc2lzLnppcApEdXVMdXNqTnU5UUFIWEtMMmZCWTZ6bExJT09EVXNSV1ZJT2xXUzN4WEpaM1l5emFlMHR1UE9HVjlPYnVWRXBtZFRVNGxHc3pYSkQ1cFp6N1RFWkZCZz09Cg==",
+      "url": "https://github.com/rosalybt/SALIX/releases/download/v1.1.2/SALIX.POS_1.1.2_x64-setup.nsis.zip"
     }
   }
 }
