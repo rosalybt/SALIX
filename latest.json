@@ -1,11 +1,11 @@
 {
-  "version": "1.1.2",
-  "notes": "Corrección: el ticket de factura muestra efectivo recibido y devuelta en el lugar correcto. El cuadre de caja se imprime al cerrar e incluye los ingresos por caja.",
-  "pub_date": "2026-10-24T01:57:13Z",
+  "version": "1.1.3",
+  "notes": "fondo de apertura se ve en el ticket como parte de la cuenta del efectivo",
+  "pub_date": "2026-10-30T01:57:13Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVVdETGJjZGdzVkxadmFKSVYveCt3QTlCWlBLRGQ4bTlROWJWT0dRV05Vd3VZTjBXNWIvaTVkeGNUVU1BeE93cmlLa2FNbCtIaUtYN2xBSTNVY1B4YTlnL1VlempXeVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODcxODI4CWZpbGU6U0FMSVggUE9TXzEuMS4yX3g2NC1zZXR1cC5uc2lzLnppcApEdXVMdXNqTnU5UUFIWEtMMmZCWTZ6bExJT09EVXNSV1ZJT2xXUzN4WEpaM1l5emFlMHR1UE9HVjlPYnVWRXBtZFRVNGxHc3pYSkQ1cFp6N1RFWkZCZz09Cg==",
-      "url": "https://github.com/rosalybt/SALIX/releases/download/v1.1.2/SALIX.POS_1.1.2_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVVdETGJjZGdzVklWYnZaTkxIZklOMzZ3V3FDOE00RGNEdGppRGpaOWlyU0tIUXo0RlhJd0VXYVByR0JYMG5lOExZaFZWQmdlQk16TitYWWpRVHRVVEZDWUtUdUZGT1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDEzNTE4CWZpbGU6U0FMSVggUE9TXzEuMS4zX3g2NC1zZXR1cC5uc2lzLnppcApJZ0JvZFo0RTZPL2pJelNVZUFCSnhkcmRnUXk3dFJxY2J0VXpneEJHWlVlVTh3V0liRitCL0NHckhBOVpoYXBSUFAxejQrOFhVV0krRThMdkk5OVlBdz09Cg==",
+      "url": "https://github.com/rosalybt/SALIX/releases/download/v1.1.3/SALIX.POS_1.1.3_x64-setup.nsis.zip"
     }
   }
 }
